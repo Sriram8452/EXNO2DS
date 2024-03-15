@@ -24,10 +24,10 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 
-Name: Ashwin Kumar S
+Name: Sriram G
 
 
-Register Number: 212222240013
+Register Number: 212222230149
 
 ![image](https://github.com/Sriram8452/EXNO2DS/assets/118708032/d976a7c8-2fec-4588-9594-1075169404aa)
 
